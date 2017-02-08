@@ -1,2 +1,6 @@
 # hello-world
-just another day to say hi
+Hello, Humans!
+
+I'm a wombat and that makes me happy.
+
+Cheers!
